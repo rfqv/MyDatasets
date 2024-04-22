@@ -1,0 +1,785 @@
+periode_data,semester,wilayah,kecamatan,kelurahan,jenis_layanan,nilai_indeks
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Ketertiban Umum,97.1
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Ketertiban Umum,87.62
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Ketertiban Umum,88.52
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Ketertiban Umum,93.3
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Ketertiban Umum,88.02
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Ketertiban Umum,90.65
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Ketertiban Umum,95.94
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Ketertiban Umum,86.51
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Ketertiban Umum,89.21
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Ketertiban Umum,90.99
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Ketertiban Umum,86.6
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Ketertiban Umum,97.25
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Ketertiban Umum,91.93
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Ketertiban Umum,95.29
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Ketertiban Umum,86.77
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Ketertiban Umum,85.11
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Ketertiban Umum,93.75
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Ketertiban Umum,92.81
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Ketertiban Umum,96.11
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Ketertiban Umum,88.72
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Ketertiban Umum,95.41
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Ketertiban Umum,90.16
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Ketertiban Umum,87.35
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Ketertiban Umum,93.96
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Ketertiban Umum,85.42
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Ketertiban Umum,93.88
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Ketertiban Umum,94.09
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Ketertiban Umum,87.66
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Ketertiban Umum,88.53
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Ketertiban Umum,91.94
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Ketertiban Umum,94.27
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Ketertiban Umum,97.67
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Ketertiban Umum,86.09
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Ketertiban Umum,94.48
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Ketertiban Umum,85.17
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Ketertiban Umum,91.77
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Ketertiban Umum,86.69
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Ketertiban Umum,91.72
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Ketertiban Umum,95.3
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Ketertiban Umum,91.36
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Ketertiban Umum,91.78
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Ketertiban Umum,87.36
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,Ketertiban Umum,90.42
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Posyandu,89.51
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Posyandu,85.58
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Posyandu,85.86
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Posyandu,92.1
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Posyandu,86.87
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Posyandu,85.26
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Posyandu,91.09
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Posyandu,92.19
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,Posyandu,96.85
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Posyandu,97.09
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,PPSU,85.51
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,PPSU,94.1
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,PPSU,85.11
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,PPSU,85.8
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,PPSU,92.24
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,PPSU,90.51
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,PPSU,86.72
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,PPSU,89.42
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,PPSU,94.42
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,PPSU,87.5
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,PPSU,89.69
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,PPSU,96.2
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,PPSU,87.22
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,PPSU,91.12
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,PPSU,88.39
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,PPSU,88.49
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,PPSU,91.72
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,PPSU,93.95
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,PPSU,96.47
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,PPSU,85.73
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,PPSU,94.05
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,PPSU,88.25
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,PPSU,86.6
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,PPSU,88.32
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,PPSU,89.85
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,PPSU,91.82
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,PPSU,95.36
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,PPSU,87.68
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,PPSU,93.53
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,PPSU,90.56
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,PPSU,95.62
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,PPSU,88.3
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,PPSU,93.32
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,PPSU,86.82
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,PPSU,85.67
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,PPSU,94.5
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,PPSU,87.3
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,PPSU,90.18
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,PPSU,96.42
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,PPSU,96.28
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,PPSU,95.59
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,PPSU,90.36
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,PPSU,92.5
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,PPSU,88.86
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,PPSU,87.97
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,PPSU,89.2
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,PPSU,94.75
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,PPSU,91.15
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,PPSU,97.92
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,PPSU,88.39
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,PPSU,89.15
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,PPSU,96.31
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,PPSU,85.08
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,PPSU,92.36
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,PPSU,85.27
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,PPSU,91.42
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,RPTRA,87.38
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,RPTRA,89.24
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,RPTRA,88.55
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,RPTRA,87.15
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,RPTRA,95.75
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,RPTRA,88.88
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,RPTRA,88.25
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,RPTRA,93.7
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,RPTRA,91.28
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,RPTRA,89.25
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,RPTRA,93.39
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,RPTRA,94.81
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,RPTRA,87.27
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,RPTRA,94.5
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,RPTRA,96.63
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,RPTRA,85.39
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,RPTRA,95.4
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,RPTRA,93.72
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,RPTRA,85.6
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,RPTRA,89.41
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,RPTRA,89.73
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,RPTRA,96.84
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,RPTRA,88.79
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,RPTRA,86.45
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,RPTRA,92.81
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,RPTRA,90.48
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,RPTRA,88.88
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,RPTRA,85.88
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,RPTRA,92.46
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,RPTRA,87.06
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,RPTRA,85.18
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,RPTRA,89.88
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,RPTRA,97.85
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,RPTRA,88.96
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,RPTRA,85.24
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,RPTRA,96.11
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,RPTRA,91.06
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,RPTRA,85.75
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,RPTRA,90.57
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,RPTRA,96.29
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,RPTRA,86.25
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,RPTRA,93.08
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,RPTRA,90.34
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,RPTRA,89.81
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,RPTRA,85.67
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,RPTRA,96.59
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,RPTRA,86.03
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,RPTRA,95.33
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,RPTRA,90.32
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,RPTRA,89.14
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,RPTRA,95.84
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,RPTRA,96.56
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,RPTRA,96.39
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,RPTRA,97.29
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,RPTRA,96.78
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,RPTRA,97.6
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,RT  RW  LMK  FKDM,92.79
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,RT  RW  LMK  FKDM,92.27
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,RT  RW  LMK  FKDM,85.99
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,RT  RW  LMK  FKDM,96.08
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,RT  RW  LMK  FKDM,89.99
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,RT  RW  LMK  FKDM,91.53
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,RT  RW  LMK  FKDM,92.82
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,RT  RW  LMK  FKDM,91.94
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,RT  RW  LMK  FKDM,92.99
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,RT  RW  LMK  FKDM,94.66
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,RT  RW  LMK  FKDM,96.61
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,RT  RW  LMK  FKDM,89.72
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,RT  RW  LMK  FKDM,90.03
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,RT  RW  LMK  FKDM,94.08
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,RT  RW  LMK  FKDM,90.39
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,RT  RW  LMK  FKDM,91.26
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,RT  RW  LMK  FKDM,96.41
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,RT  RW  LMK  FKDM,95.93
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,RT  RW  LMK  FKDM,89.47
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,RT  RW  LMK  FKDM,89.07
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,RT  RW  LMK  FKDM,88.34
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,RT  RW  LMK  FKDM,97.17
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,RT  RW  LMK  FKDM,88.59
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,RT  RW  LMK  FKDM,85.23
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,RT  RW  LMK  FKDM,90.55
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,RT  RW  LMK  FKDM,89.26
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,RT  RW  LMK  FKDM,94.28
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,RT  RW  LMK  FKDM,97.76
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,RT  RW  LMK  FKDM,92.92
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,RT  RW  LMK  FKDM,88.3
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,RT  RW  LMK  FKDM,89.07
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,RT  RW  LMK  FKDM,94.73
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,RT  RW  LMK  FKDM,96.69
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,RT  RW  LMK  FKDM,85.83
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,RT  RW  LMK  FKDM,88.03
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,RT  RW  LMK  FKDM,87.14
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,RT  RW  LMK  FKDM,88.02
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,RT  RW  LMK  FKDM,96.73
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,RT  RW  LMK  FKDM,86.89
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,RT  RW  LMK  FKDM,91.39
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,RT  RW  LMK  FKDM,89.61
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,RT  RW  LMK  FKDM,87.25
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,RT  RW  LMK  FKDM,95.2
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,RT  RW  LMK  FKDM,96.88
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,RT  RW  LMK  FKDM,87.73
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,RT  RW  LMK  FKDM,92.11
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,RT  RW  LMK  FKDM,85.25
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,RT  RW  LMK  FKDM,89.49
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,RT  RW  LMK  FKDM,93.98
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,RT  RW  LMK  FKDM,86.98
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,RT  RW  LMK  FKDM,87.27
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,RT  RW  LMK  FKDM,93.09
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,RT  RW  LMK  FKDM,87.44
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,RT  RW  LMK  FKDM,86.08
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,RT  RW  LMK  FKDM,97.35
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,RT  RW  LMK  FKDM,88.05
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Ketertiban Umum,94.96
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Ketertiban Umum,91.04
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Ketertiban Umum,89.78
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,PKK,85.09
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,PKK,87.01
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,PKK,89.05
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,PKK,85.79
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,PKK,88.27
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,PKK,85.34
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,PKK,89.68
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,PKK,93.74
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,PKK,93.69
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,PKK,92.41
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,PKK,97.61
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,PKK,86.58
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,PKK,92.56
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,PKK,95.64
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Jumantik,87.5
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Jumantik,85.76
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Jumantik,95.68
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Jumantik,92.76
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Jumantik,97.52
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Jumantik,85.29
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Jumantik,96.1
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Jumantik,90.36
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Jumantik,86.89
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Jumantik,97.14
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Jumantik,89.17
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Jumantik,93.03
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Jumantik,97.36
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Jumantik,97.8
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Jumantik,90.28
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Jumantik,88.66
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Jumantik,88.4
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Jumantik,88.32
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Jumantik,88.16
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Jumantik,87.63
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Jumantik,90.9
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Jumantik,91.03
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Jumantik,86.3
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Jumantik,92.59
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Jumantik,95.39
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Jumantik,94.52
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Jumantik,95.36
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Jumantik,88.73
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Jumantik,93.01
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Jumantik,93.43
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Jumantik,94.28
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Jumantik,97.84
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Jumantik,98.79
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Jumantik,99.74
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Jumantik,92.3
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Jumantik,97.27
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Jumantik,97.58
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Jumantik,99.62
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Jumantik,93.88
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Jumantik,97.3
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Jumantik,91.17
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Jumantik,91.32
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Jumantik,95.72
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Jumantik,90.79
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Jumantik,94.42
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Ketertiban Umum,94.61
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Ketertiban Umum,97.53
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Ketertiban Umum,94.77
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Ketertiban Umum,92.1
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Ketertiban Umum,87.8
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Ketertiban Umum,93.16
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Ketertiban Umum,94.72
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,Ketertiban Umum,97.79
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Ketertiban Umum,88.41
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Jumantik,96.82
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Jumantik,92.18
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Jumantik,96.3
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Jumantik,90.96
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Jumantik,97.49
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Jumantik,96.09
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Jumantik,98.64
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Jumantik,96.49
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Jumantik,98.2
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Jumantik,98.64
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Jumantik,97.21
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Jumantik,92.92
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Jumantik,91.67
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Jumantik,93.52
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Jumantik,99.67
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Jumantik,94.59
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Jumantik,91.94
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Jumantik,93.72
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Jumantik,97.16
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Jumantik,96.81
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Jumantik,99.22
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Jumantik,97.82
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Jumantik,92.45
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Jumantik,98.47
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Jumantik,98.28
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Jumantik,94.57
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Jumantik,93.52
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,Jumantik,97.28
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Jumantik,95.08
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Jumantik,93.71
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Jumantik,93.56
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Jumantik,99.85
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Jumantik,99.83
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Jumantik,90.34
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Jumantik,97.54
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Jumantik,99.8
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,Jumantik,98.65
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Jumantik,99.21
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Posyandu,92.13
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Posyandu,98.29
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Posyandu,94.84
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Posyandu,95.86
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Posyandu,93.6
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Posyandu,99.58
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Posyandu,95.82
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Posyandu,93.03
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Posyandu,98.77
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Posyandu,95.45
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Posyandu,96.05
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Posyandu,98.5
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Posyandu,94.74
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Posyandu,99.59
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Posyandu,93.5
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Posyandu,93.74
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Posyandu,90.29
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Posyandu,97.45
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Posyandu,98.06
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Posyandu,90.12
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Posyandu,96.79
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Posyandu,99.54
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Posyandu,93.02
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Posyandu,97.57
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Posyandu,91.64
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Posyandu,99.49
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Posyandu,92.5
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Posyandu,95.11
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Posyandu,98.04
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Posyandu,99.51
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Posyandu,94.42
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Posyandu,94.83
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Posyandu,94.45
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Posyandu,92.26
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Posyandu,95.13
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Posyandu,92.18
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Posyandu,92.97
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Posyandu,93.47
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Posyandu,99.89
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Posyandu,96.04
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Posyandu,90.55
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Posyandu,92.49
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Posyandu,98.54
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Posyandu,97.59
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Posyandu,95.62
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,Posyandu,99.69
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Posyandu,93.08
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Posyandu,93.82
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Posyandu,94.49
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Posyandu,94.79
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Posyandu,99.19
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Posyandu,93.88
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Posyandu,97.47
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Posyandu,99.6
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,Posyandu,95.85
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Posyandu,93.25
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,PPSU,93.14
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,PPSU,90.76
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,PPSU,97.12
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,PPSU,96.09
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,PPSU,90.93
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,PPSU,96.87
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,PPSU,96.54
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,PPSU,93.24
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,PPSU,92.9
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,PPSU,91.63
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,PPSU,93.32
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,PPSU,94.77
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,PPSU,90.08
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,PPSU,93.41
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,PPSU,98.29
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,PPSU,93.36
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,PPSU,98.96
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,PPSU,95.28
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,PPSU,99.25
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,PPSU,94.98
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Jumantik,93.96
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Jumantik,89.44
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Jumantik,93.08
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Jumantik,88.11
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Jumantik,91.41
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Jumantik,87.44
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Jumantik,92.45
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Jumantik,91.91
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Jumantik,87.32
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Jumantik,94.6
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Jumantik,96.76
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Jumantik,86.1
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Jumantik,90.06
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,Jumantik,85.06
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Jumantik,95.37
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Jumantik,88.79
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Jumantik,90.77
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Jumantik,88.41
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Jumantik,86.45
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Jumantik,86.27
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Jumantik,86.76
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Jumantik,85.33
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,Jumantik,92.21
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Jumantik,93.86
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Posyandu,89.96
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Posyandu,89.08
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Posyandu,96.86
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Posyandu,93.77
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Posyandu,86.56
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Posyandu,91.07
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Posyandu,97.73
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Posyandu,85.15
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Posyandu,91.76
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Posyandu,96.43
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Posyandu,85.63
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Posyandu,86.57
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Posyandu,92.68
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Posyandu,96.76
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Posyandu,85.91
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Posyandu,89.34
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Posyandu,89.93
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Posyandu,94.38
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Posyandu,94.64
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Posyandu,85.16
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Posyandu,90.84
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Posyandu,96.62
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Posyandu,85.86
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Posyandu,85.54
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Posyandu,97.4
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Posyandu,85.77
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Posyandu,93.44
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Posyandu,94.27
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Posyandu,90.61
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Posyandu,94.24
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Posyandu,90.08
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Posyandu,93.55
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Posyandu,87.85
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Posyandu,86.44
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Posyandu,97.93
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Posyandu,87.45
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Posyandu,92.02
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Posyandu,97.05
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Posyandu,88.73
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Posyandu,92.85
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Posyandu,85.02
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Posyandu,97.09
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Posyandu,96.11
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Posyandu,94.54
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Posyandu,85.76
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Angke,Posyandu,90.3
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,Ketertiban Umum,93.44
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Kerendang,Ketertiban Umum,96.28
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Pekojan,Ketertiban Umum,91.6
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,Ketertiban Umum,90
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tambora,Ketertiban Umum,91.71
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,Ketertiban Umum,85.14
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,PKK,90.61
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,PKK,92.78
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,PKK,91.88
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,PKK,91.69
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,PKK,96.78
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,PKK,97
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,PKK,94.25
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,PKK,94.11
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,PKK,97.83
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,PKK,93.94
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,PKK,97.16
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,PKK,97.67
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,PKK,97.17
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,PKK,95.86
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,PKK,90.07
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,PKK,98.48
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,PKK,92.97
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,PKK,95.5
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,PKK,90.17
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,PKK,94.78
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,PKK,93.75
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,PKK,90.49
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,PKK,98.85
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,PKK,98.76
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,PKK,95.04
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,PKK,97.8
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,PKK,91.3
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,PKK,95.52
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,PKK,99.74
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,PKK,97.59
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,PKK,93.35
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,PKK,96.36
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,PKK,99
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,PKK,94.61
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,PKK,92.51
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,PKK,96.26
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,PKK,96.37
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,PKK,97.65
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,PKK,96.59
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,PKK,90.21
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,PKK,95.61
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,PKK,99.47
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,PKK,93
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,PKK,96.67
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,PKK,94.66
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,PKK,96.75
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,PKK,94.37
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,PKK,94.67
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,PKK,97.09
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,PKK,92.26
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,PKK,99.24
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,PKK,97.4
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,PKK,93.64
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,PKK,98.14
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,PKK,93.88
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,PKK,92.5
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Jumantik,91.26
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Jumantik,95.91
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Jumantik,93.33
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Jumantik,95.06
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Jumantik,94.85
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Ketertiban Umum,89.25
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,Ketertiban Umum,97.54
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,Ketertiban Umum,91.55
+202306,1,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,Ketertiban Umum,94.2
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,PKK,92.66
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,PKK,92.27
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,PKK,89.29
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,PKK,97.05
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,PKK,95.39
+202306,1,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,PKK,86.18
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,PKK,92.4
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,PKK,96.62
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,PKK,89.51
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,PKK,92.16
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,PKK,96.69
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,PKK,91.24
+202306,1,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,PKK,91.4
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,PKK,86
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,PKK,88.65
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,PKK,92.36
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,PKK,88.03
+202306,1,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,PKK,92.13
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,PKK,96.56
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,PKK,92.69
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,PKK,92.03
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,PKK,88.9
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,PKK,90.71
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,PKK,94.93
+202306,1,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,PKK,94.79
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Joglo,PKK,92.72
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,PKK,87.41
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,PKK,87.87
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,PKK,93.35
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,PKK,87.37
+202306,1,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,PKK,97.3
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,PKK,90.1
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,PKK,93.53
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,PKK,97.11
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,PKK,96.8
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,PKK,95.36
+202306,1,Kota Administrasi Jakarta Barat, Palmerah,Slipi,PKK,89.42
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,PKK,87.09
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,PKK,90.81
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,PKK,88
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,PKK,96.33
+202306,1,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,PKK,85.21
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,Ketertiban Umum,87.96
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,Ketertiban Umum,86.76
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,Ketertiban Umum,92.1
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,Ketertiban Umum,92.34
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,Ketertiban Umum,87.31
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,Ketertiban Umum,97.17
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,Ketertiban Umum,97.3
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,Ketertiban Umum,91.36
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,Ketertiban Umum,87.39
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,Ketertiban Umum,93.5
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,Ketertiban Umum,97.87
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,Ketertiban Umum,92.3
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,Ketertiban Umum,86.16
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,Ketertiban Umum,96.8
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,Ketertiban Umum,90.62
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,Ketertiban Umum,92.76
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,Ketertiban Umum,88.35
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,PPSU,94.15
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,PPSU,92.05
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,PPSU,90.51
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,PPSU,99.02
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,PPSU,96.02
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,PPSU,97.32
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,PPSU,98.01
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,PPSU,91.45
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,PPSU,96.27
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,PPSU,98.45
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,PPSU,99.57
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,PPSU,92.35
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,PPSU,93.12
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,PPSU,91.49
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,PPSU,99.85
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,PPSU,99.2
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,PPSU,98.6
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,PPSU,97.18
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,PPSU,91.51
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,PPSU,95.36
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,PPSU,93.81
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,PPSU,96.74
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,PPSU,92.36
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,PPSU,91.57
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,PPSU,94.81
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,PPSU,94.1
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,PPSU,94.72
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,PPSU,99.06
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,PPSU,97.04
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,PPSU,96.55
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,PPSU,94.69
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,PPSU,93.21
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,PPSU,98.6
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,PPSU,91.2
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,PPSU,95.81
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,PPSU,90.64
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,RPTRA,91.55
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,RPTRA,97.15
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,RPTRA,93.36
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,RPTRA,95
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,RPTRA,92.42
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,RPTRA,90.17
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,RPTRA,90.72
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,RPTRA,98.44
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,RPTRA,91.55
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,RPTRA,99.51
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,RPTRA,95.68
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,RPTRA,97.33
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,RPTRA,94.24
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,RPTRA,90.88
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,RPTRA,94.56
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,RPTRA,94.06
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,RPTRA,98.97
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,RPTRA,97.1
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,RPTRA,93.33
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,RPTRA,91.93
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,RPTRA,97.93
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,RPTRA,96.6
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,RPTRA,92.69
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,RPTRA,94.47
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,RPTRA,90.86
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,RPTRA,91.85
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,RPTRA,96.29
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,RPTRA,97.83
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,RPTRA,98.44
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,RPTRA,93.63
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,RPTRA,91.1
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,RPTRA,90.31
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,RPTRA,97.48
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,RPTRA,98.01
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,RPTRA,95.11
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,RPTRA,95.66
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,RPTRA,98.29
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,RPTRA,94.72
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,RPTRA,91.12
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,RPTRA,90.63
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,RPTRA,98.73
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,RPTRA,98.73
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,RPTRA,99.07
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,RPTRA,97.04
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,RPTRA,94.53
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,RPTRA,96.81
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,RPTRA,99.3
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,RPTRA,99.24
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,RPTRA,99.11
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,RPTRA,99.49
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,RPTRA,94.22
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,RPTRA,90.81
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,RPTRA,92.83
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,RPTRA,90.06
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,RPTRA,95.03
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,RPTRA,92.31
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,RT RW LMK FKDM,93.07
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,RT RW LMK FKDM,94.49
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,RT RW LMK FKDM,96.24
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,RT RW LMK FKDM,94.66
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,RT RW LMK FKDM,91.86
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,RT RW LMK FKDM,89.59
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,RT RW LMK FKDM,89.6
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,RT RW LMK FKDM,87.54
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,RT RW LMK FKDM,91.84
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,RT RW LMK FKDM,90.47
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,RT RW LMK FKDM,93.13
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,RT RW LMK FKDM,91.83
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,RT RW LMK FKDM,94.93
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,RT RW LMK FKDM,91.97
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,RT RW LMK FKDM,91.53
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,RT RW LMK FKDM,91.48
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,RT RW LMK FKDM,92.39
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,RT RW LMK FKDM,93.12
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,RT RW LMK FKDM,91.54
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,RT RW LMK FKDM,91.9
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,RT RW LMK FKDM,92.68
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,RT RW LMK FKDM,90.12
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,RT RW LMK FKDM,91.35
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,RT RW LMK FKDM,91.62
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,RT RW LMK FKDM,90.8
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,RT RW LMK FKDM,87.56
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,RT RW LMK FKDM,87.75
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,RT RW LMK FKDM,93
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,RT RW LMK FKDM,97.29
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,RT RW LMK FKDM,93.87
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Srengseng,RT RW LMK FKDM,92.66
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Jati Pulo,RT RW LMK FKDM,94.89
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kemanggisan,RT RW LMK FKDM,93.86
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Selatan,RT RW LMK FKDM,91.9
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Kota Bambu Utara,RT RW LMK FKDM,91.08
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Palmerah,RT RW LMK FKDM,89.87
+202312,2,Kota Administrasi Jakarta Barat, Palmerah,Slipi,RT RW LMK FKDM,92.52
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Glodok,RT RW LMK FKDM,87.88
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Keagungan,RT RW LMK FKDM,93.14
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Krukut,RT RW LMK FKDM,89.35
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Mangga Besar,RT RW LMK FKDM,89.55
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Maphar,RT RW LMK FKDM,86.66
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Pinangsia,RT RW LMK FKDM,91.6
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Taman Sari,RT RW LMK FKDM,88.65
+202312,2,Kota Administrasi Jakarta Barat, Taman Sari,Tangki,RT RW LMK FKDM,91.71
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Angke,RT RW LMK FKDM,92.97
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Selatan,RT RW LMK FKDM,87.36
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Duri Utara,RT RW LMK FKDM,94.59
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Besi,RT RW LMK FKDM,91.37
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Jembatan Lima,RT RW LMK FKDM,94.44
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kali Anyar,RT RW LMK FKDM,94.09
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Kerendang,RT RW LMK FKDM,89.27
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Pekojan,RT RW LMK FKDM,89.97
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Roa Malaka,RT RW LMK FKDM,90.01
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tambora,RT RW LMK FKDM,91.22
+202312,2,Kota Administrasi Jakarta Barat, Tambora,Tanah Sereal,RT RW LMK FKDM,89.52
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Barat,Ketertiban Umum,96.7
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Cengkareng Timur,Ketertiban Umum,97.86
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Duri Kosambi,Ketertiban Umum,89.48
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kapuk,Ketertiban Umum,88.3
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Kedaung Kali Angke,Ketertiban Umum,89.95
+202312,2,Kota Administrasi Jakarta Barat, Cengkareng,Rawa Buaya,Ketertiban Umum,90.9
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Grogol,Ketertiban Umum,88.51
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar,Ketertiban Umum,96.24
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Jelambar Baru,Ketertiban Umum,93.98
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Selatan,Ketertiban Umum,95.33
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tanjung Duren Utara,Ketertiban Umum,86.78
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Tomang,Ketertiban Umum,87.1
+202312,2,Kota Administrasi Jakarta Barat, Grogol Petamburan,Wijaya Kusuma,Ketertiban Umum,86.82
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kalideres,Ketertiban Umum,94.14
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Kamal,Ketertiban Umum,88.27
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Pegadungan,Ketertiban Umum,97.15
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Semanan,Ketertiban Umum,96.65
+202312,2,Kota Administrasi Jakarta Barat, Kali Deres,Tegal Alur,Ketertiban Umum,96.17
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Duri Kepa,Ketertiban Umum,96.7
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kebon Jeruk,Ketertiban Umum,85.34
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Selatan,Ketertiban Umum,91.7
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kedoya Utara,Ketertiban Umum,92.91
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Kelapa Dua,Ketertiban Umum,93.47
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Selatan,Ketertiban Umum,97.6
+202312,2,Kota Administrasi Jakarta Barat, Kebon Jeruk,Sukabumi Utara,Ketertiban Umum,93.2
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Joglo,Ketertiban Umum,96.32
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Selatan,Ketertiban Umum,85.27
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Kembangan Utara,Ketertiban Umum,87.17
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Selatan,Ketertiban Umum,90.29
+202312,2,Kota Administrasi Jakarta Barat, Kembangan,Meruya Utara,Ketertiban Umum,96.53
